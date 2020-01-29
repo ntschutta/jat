@@ -35,6 +35,15 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+  - name: Safari Online
+    url: https://www.safaribooksonline.com/library/view/presentation-patterns-techniques/9780132963381/
+    icon_pack: fas
+    icon: bookmark
+  - name: Start Reading
+    url: https://www.safaribooksonline.com/library/view/presentation-patterns-techniques/9780132963381/ch01.html
+    icon_pack: fas
+    icon: book
 
 url_pdf:
 url_code:
@@ -42,7 +51,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://www.safaribooksonline.com/library/view/presentation-patterns-techniques/9780132963381/
+url_source:
 url_video:
 
 # Featured image
