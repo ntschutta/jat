@@ -35,7 +35,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "files/Responsible-Microservices.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=txBCrsVryiU&list=PLRsbF2sD7JVqUucetXQ13Ui46K54YzQYW&index=30&t=0s"
 
 duration: "45-90 minutes"
 ---
