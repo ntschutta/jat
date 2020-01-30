@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 links:
 - name: Podcast
-  url: https://nofluffjuststuff.com/podcast
+  url: https://nofluffjuststuff.com/podcast/1/thinking_architectually
   icon_pack: fas
   icon: podcast
 - name: iTunes
