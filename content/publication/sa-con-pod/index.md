@@ -80,3 +80,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+{{< figure library="true" src="sa-con-london.jpg" title="SA Con NYC" lightbox="true" >}}

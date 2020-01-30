@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+{{< figure library="true" src="prespatt.jpg" title="Presentation Patterns: Techniques for Crafting Better Presentations" lightbox="true" >}}
