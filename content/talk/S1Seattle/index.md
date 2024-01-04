@@ -18,7 +18,7 @@ all_day: false
 publishDate: 2020-01-28T15:28:14-06:00
 
 authors: []
-tags: ["architecture", "architect", "services", "fundamentals", "VMware", "spring", "conference", "containers", "boot", "reactive", "cloud", "cloud native", "k8s", "kubernetes", "docker", "microservices", "functions", "trade-offs", "technology", "techniques"]
+tags: ["architecture", "architect", "services", "fundamentals", "spring", "conference", "containers", "boot", "reactive", "cloud", "cloud native", "k8s", "kubernetes", "docker", "microservices", "functions", "trade-offs", "technology", "techniques"]
 
 # Is this a featured talk? (true/false)
 featured: false

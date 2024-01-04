@@ -42,4 +42,4 @@ hero_media = "portrait-large.jpg"
   label = "Contact me"
 
 +++
-## My name is **Nathaniel Schutta** and I'm an **architect** and **developer advocate** for VMware. In a nutshell, I am an **architect as a service**.
+## My name is **Nathaniel Schutta** and I'm an **architect**, **Java Champion** and **developer advocate**. In a nutshell, I am an **architect as a service**.
